@@ -1,4 +1,4 @@
-# Evaluating-Airbnb-s-Business-Condition-in-2015
+# Evaluating-Airbnb's-Business-Condition-in-2015
 
 The report can be found in the PDF file above.[Chicago Airbnb 2015 business conditions brief analysis report.pdf](https://github.com/ZominWang/Evaluating-Airbnb-s-Business-Condition-in-2015/blob/main/Chicago%20Airbnb%202015%20business%20conditions%20brief%20analysis%20report.pdf)
 
